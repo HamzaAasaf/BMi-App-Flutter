@@ -1,4 +1,8 @@
-# app_bmi
+# BMi-App-Flutter
+
+![Screenshot_1711918641](https://github.com/HamzaAasaf/BMi-App-Flutter/assets/94658182/3df7cde1-426c-4ae0-9ab9-9809ed80a701)
+
+![Screenshot_1711918630](https://github.com/HamzaAasaf/BMi-App-Flutter/assets/94658182/d546a694-5f1d-497b-9d8c-a140afd6ad7a)
 
 A new Flutter project.
 
